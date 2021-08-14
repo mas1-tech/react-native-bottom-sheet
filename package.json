@@ -1,6 +1,7 @@
 {
-  "name": "@gorhom/bottom-sheet",
-  "version": "4.0.0-alpha.25",
+  "name": "@mas1-tech/bottom-sheet",
+  "version": "4.0.1",
+  "private": false,
   "description": "A performant interactive bottom sheet with fully configurable options 🚀",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -19,7 +20,7 @@
     "reanimated",
     "sheet"
   ],
-  "repository": "https://github.com/gorhom/react-native-bottom-sheet",
+  "repository": "https://github.com/mas1-tech/react-native-bottom-sheet",
   "author": "Mo Gorhom (https://gorhom.dev)",
   "license": "MIT",
   "bugs": {
